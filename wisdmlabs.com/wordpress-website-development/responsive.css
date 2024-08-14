@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+    #sdk1{
+        display:none;
+    }
+    #sdk2{
+        display:block;
+    }
+}
+@media (min-width: 768px){
+    #sdk2{
+        display:none;
+    }
+}
