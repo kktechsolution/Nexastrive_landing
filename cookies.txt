@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wisdmlabs.com	TRUE	/	FALSE	1999999999	sessionid	11285ecf39364b6f87fb0708d4294fec
+wisdmlabs.com	TRUE	/	FALSE	1999999999	MOOSEND_USER_ID	38f4aa9761f44e4199ba250ff7450e19
+wisdmlabs.com	TRUE	/	FALSE	1999999999	MOOSEND_SITE_ID	15600b3e-0164-45ee-83f3-82c172e4de17
+

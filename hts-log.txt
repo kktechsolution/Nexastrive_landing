@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 07 Aug 2024 11:37:43 at https://wisdmlabs.com/wordpress-website-development/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wisdmlabs.com/wordpress-website-development/ -O1 "C:\My Web Sites\Nexa-wordpress" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:38:16	Error: 	"Not Found" (404) at link https://wisdmlabs.com/wordpress-website-development/window.location.href (from https://wisdmlabs.com/wordpress-website-development/)
+11:38:16	Error: 	"Not Found" (404) at link https://wisdmlabs.com/wordpress-website-development/t.target.href,e (from https://wisdmlabs.com/wordpress-website-development/)
+11:38:17	Error: 	"Not Found" (404) at link https://wisdmlabs.com/wordpress-website-development/e,baseURI (from https://wisdmlabs.com/wordpress-website-development/)
+11:38:17	Error: 	"Not Found" (404) at link https://wisdmlabs.com/wordpress-website-development/GET (from https://wisdmlabs.com/wordpress-website-development/)
+11:38:18	Error: 	"Not Found" (404) at link https://wisdmlabs.com/wordpress-website-development/Edge/ (from https://wisdmlabs.com/wordpress-website-development/)
+11:38:18	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://wisdmlabs.com/wordpress-website-development/)
+11:38:18	Error: 	"Not Found" (404) at link https://wisdmlabs.com/wordpress-website-development/t (from https://wisdmlabs.com/wordpress-website-development/)
+11:38:19	Error: 	"Not Found" (404) at link https://wisdmlabs.com/wordpress-website-development/POST (from https://wisdmlabs.com/wordpress-website-development/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 seconds : 89 links scanned, 80 files written (5204440 bytes overall) [3194195 bytes received at 72595 bytes/sec], 4028607 bytes transferred using HTTP compression in 58 files, ratio 19%, 5.6 requests per connection
+(8 errors, 0 warnings, 0 messages)
