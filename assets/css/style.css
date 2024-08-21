@@ -1131,6 +1131,20 @@ p {
 	}
 }
 
+@media(max-width:555px) {
+
+	.calendly-inline-widget{
+		min-width: 400px !important;
+	}
+}
+
+@media(max-width:455px) {
+
+	.calendly-inline-widget{
+		min-width: 270px !important;
+	}
+}
+
 .wa-chat-box-poweredby{
 	display: none !important;
 }
