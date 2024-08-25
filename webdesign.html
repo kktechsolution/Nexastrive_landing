@@ -729,6 +729,13 @@
         loop: true, // Enable continuous loop mode
     });
 });
+
+window.addEventListener('message', function(event) {
+    if (event.data.event === 'calendly.event_scheduled') {
+      window.location.href = '/thanku.html'; // Change this to your thank-you page URL
+    }
+  });
+
     </script>
 </body>
 <!-- Mirrored from warboxcreative.co.uk/website-design/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 Aug 2024 05:47:42 GMT -->
