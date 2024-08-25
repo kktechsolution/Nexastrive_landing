@@ -2668,6 +2668,14 @@ ltq('init', '3ju-0')
   <!-- <script src="../cdn.jsdelivr.net/npm/js-cookie%402/src/js.cookie.min.js"></script> -->
   <!--  ezra siton code  -->
   <script>
+    
+  window.addEventListener('message', function(event) {
+    if (event.data.event === 'calendly.event_scheduled') {
+      window.location.href = '/thanku.html'; // Change this to your thank-you page URL
+    }
+  });
+
+
  function highlight(element) {
   // Remove highlight from all text blocks
   const textBlocks = document.querySelectorAll('.text-block');
