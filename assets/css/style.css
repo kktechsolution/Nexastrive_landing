@@ -261,7 +261,7 @@ template {
 	--site-width-mobile: 80%;
 	--site-width-laptop: 1088px;
 	--site-width-desktop: 1280px;
-	--site-width-ultrawide: 1780px;
+	--site-width-ultrawide: 1500px;
 	--color-primary: #02151b;
 	--color-primary-shade: #072c39;
 	--color-primary-light: #1e3d48;
@@ -343,7 +343,7 @@ template {
 }
 
 body {
-	background: var(--color-primary);
+	background: var(--color-primary) !important;
 	color: var(--color-text-cream);
 	font-size: 1.25rem;
 	font-weight: 400;
@@ -6318,7 +6318,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: #f4f4f9;
-    overflow: hidden;
+    /* overflow: hidden; */
     animation: fadeIn 1s ease-in-out;
 }
 
